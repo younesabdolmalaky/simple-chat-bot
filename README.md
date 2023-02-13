@@ -1,6 +1,7 @@
-# simple-chat-bot
 # Building a Chatbot using TensorFlow
 This code is a simple implementation of a Chatbot that uses TensorFlow and TensorFlow's Keras API to train the model. The code is written in Python and is built upon several libraries including Numpy, Pandas, and TensorFlow.
+## About the datasets i used
+It consists of two columns: question \t answer \n . Suitable for simple chatbots. Contains 3725 items# Building a Chatbot using TensorFlow
 
 ## Encoder-Decoder with Attention
   
